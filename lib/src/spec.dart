@@ -1,0 +1,27 @@
+const VERSION = "mmap";
+
+const NULL_TYPE = 0;
+const STRING_TYPE = 1;
+const INTEGER_TYPE = 2;
+const DOUBLE_TYPE = 3;
+const BOOL_TYPE = 4;
+
+const LIST_TYPE = 10;
+const MAP_TYPE = 11;
+
+const MIN_LIST_TYPED = LIST_UINT8_TYPE;
+const MAX_LIST_TYPED = LIST_FLOAT64_TYPE;
+
+const LIST_UINT8_TYPE = 100;
+const LIST_UINT16_TYPE = 101;
+const LIST_UINT32_TYPE = 102;
+const LIST_INT8_TYPE = 103;
+const LIST_INT16_TYPE = 104;
+const LIST_INT32_TYPE = 105;
+const LIST_INT64_TYPE = 106;
+const LIST_UINT64_TYPE = 107;
+const LIST_FLOAT32_TYPE = 110;
+const LIST_FLOAT64_TYPE = 111;
+
+const LIST_STRING_TYPE = 112;
+
