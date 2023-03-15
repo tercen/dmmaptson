@@ -1,10 +1,10 @@
 name: dmmaptson
 description: A starting point for Dart libraries or applications.
-version: 1.0.1
+version: 1.0.2
 # repository: https://github.com/my_org/my_repo
 
 environment:
-  sdk: '>=2.18 <3.0.0'
+  sdk: '>=2.18.0 <3.0.0'
 
 #dependencies:
 
